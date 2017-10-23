@@ -12,7 +12,6 @@ Using tools of your choice, build a UI which enumerates the results of `GET -> /
 
 ## Submission guidelines
 - Please ensure that your submission is runnable. Non executing submissions will be diqualified without further review. Bonus points if in addition to the code, you deploy this to a PaaS provider of your choice (unless your solution is a mobile solution, we understand that makes this impossible, and will not mark you down).
-- This is not a CSS exercise, please do not spend too much effort making this look amazing.
 - Please submit your code as a link to a version control system of your choice. We would love to see your commit process.
 - Assume this is a spike which could evolve into a fully fledged product, and architect your code accordingly
 - In addition to your code, please submit a brief document (as a README or otherwise), answering the following questions:
