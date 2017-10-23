@@ -3,6 +3,7 @@ Bob's epic drone shack Inc. manufactures drones. As a community service they hav
 bobs-epic-drone-shack-inc.herokuapp.com listing all of their products and providing safety and other information. The API is poorly documented, and fails frequently with a variety of status errors. The documentation lists the following routes:
 
 GET -> /api/v0/drones
+
 GET -> /api/v0/drone/:id
 
 No other documentation is provided.
