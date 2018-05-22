@@ -15,8 +15,8 @@ No other documentation is provided.
 - Please ensure that your submission is runnable. Bonus points if in addition to the code, you deploy this to a PaaS provider of your choice.
 - Please submit your code as a link to a version control system of your choice. We would love to see your commit process.
 - Assume the code you write could evolve into a more fully fledged product, and architect your code accordingly.
-- In addition to your code, please submit a brief document (as a README or otherwise), answering the following questions:
-  1) What assumptions did you have to make?
-  2) What technical compromises did you have to make in order to achieve a solution? What is the severity of this tech debt, and what would a path to paying it down look like?
+- In addition to your code, please submit a brief document (as a README or otherwise), answering the following questions(brief answers will suffice):
+  1) What are some key assumptions you made
+  2) What technical compromises did you have to make in order to achieve your solution? What is the severity of this tech debt, and what would a path to resolving it look like?
   3) How do we run your code?
   4) What future features do you think we might be able to build based on this API?
