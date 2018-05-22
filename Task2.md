@@ -14,7 +14,7 @@ No other documentation is provided.
 ## Submission guidelines
 - Please ensure that your submission is runnable. Bonus points if in addition to the code, you deploy this to a PaaS provider of your choice.
 - Please submit your code as a link to a version control system of your choice. We would love to see your commit process.
-- Assume this is a spike which could evolve into a fully fledged product, and architect your code accordingly.
+- Assume the code you write could evolve into a more fully fledged product, and architect your code accordingly.
 - In addition to your code, please submit a brief document (as a README or otherwise), answering the following questions:
   1) What assumptions did you have to make?
   2) What technical compromises did you have to make in order to achieve a solution? What is the severity of this tech debt, and what would a path to paying it down look like?
