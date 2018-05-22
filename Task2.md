@@ -7,7 +7,9 @@ GET -> /api/v0/drone/:id
 
 No other documentation is provided.
 
-Using tools of your choice, build a UI which lists the results of `GET -> /api/v0/drones` in a readable manner. You should also attempt to see if there is any useful information, and highlight it as you deem appropriate, or provide any other features you feel would demonstrate this API's utility. As you want to demo this integration to a potential customer, make sure that the API's notorious instability and failure rate is appropriately handled.
+1) Using tools of your choice, build a UI which lists the results of `GET -> /api/v0/drones` in a readable manner. 
+2) The API is unstabile and has a high failure rate. You are tasked with building an integration that masks this from the end user. Your solution should be reliably demoable despite the broken API.
+3) (Bonus): You should also attempt to see if there is any useful information, and display it as you deem appropriate, or provide any other features you feel would demonstrate this API's utility.
 
 ## Submission guidelines
 - Please ensure that your submission is runnable. Non-executing submissions will be diqualified without further review. Bonus points if in addition to the code, you deploy this to a PaaS provider of your choice (unless your solution is a mobile solution, we understand that makes this impossible, and will not mark you down).
