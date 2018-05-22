@@ -12,7 +12,7 @@ No other documentation is provided.
 3) (Bonus - only attempt if you have time): The API returns drone crash statistics. Build a UI which allows you to filter the drones by crash rate range (for example: between 0-10%).
 
 ## Submission guidelines
-- Please ensure that your submission is runnable. Non-executing submissions will be diqualified without further review. Bonus points if in addition to the code, you deploy this to a PaaS provider of your choice (unless your solution is a mobile solution, we understand that makes this impossible, and will not mark you down).
+- Please ensure that your submission is runnable. Bonus points if in addition to the code, you deploy this to a PaaS provider of your choice (unless your solution is a mobile solution, we understand that makes this impossible, and will not mark you down).
 - Please submit your code as a link to a version control system of your choice. We would love to see your commit process.
 - Assume this is a spike which could evolve into a fully fledged product, and architect your code accordingly.
 - In addition to your code, please submit a brief document (as a README or otherwise), answering the following questions:
