@@ -7,7 +7,7 @@ GET -> /api/v0/drone/:id
 
 No other documentation is provided.
 
-Using tools of your choice, build a UI which enumerates the results of `GET -> /api/v0/drones` in a readable manner. Given that we are an insurance provider, you should also attempt to see if there is any useful information, and highlight it as you deem appropriate, or provide any other features you feel would demonstrate this API's utility. As you want to demo this integration to a potential customer, make sure that the API's notorious instability and failure rate is appropriately handled.
+Using tools of your choice, build a UI which enumerates the results of `GET -> /api/v0/drones` in a readable manner. Given that we are an insurance provider, you should also attempt to see if there is any useful information, and highlight it as you deem appropriate, or provide any other features you feel would demonstrate this API's utility. As you want to demo this integration to a potential customer, make sure that the API's notorious instability and failure rate is appropriately handled. This is very important, but has been left for you to architect!
 
 ## Submission guidelines
 - Please ensure that your submission is runnable. Non-executing submissions will be diqualified without further review. Bonus points if in addition to the code, you deploy this to a PaaS provider of your choice (unless your solution is a mobile solution, we understand that makes this impossible, and will not mark you down).
