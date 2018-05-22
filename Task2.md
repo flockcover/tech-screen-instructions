@@ -9,7 +9,7 @@ No other documentation is provided.
 
 1) Using tools of your choice, build a UI which lists the results of `GET -> /api/v0/drones` in a readable manner. 
 2) The API is unstabile and has a high failure rate. You are tasked with building an integration that masks this from the end user. Your solution should be reliably demoable despite the broken API.
-3) (Bonus): You should also attempt to see if there is any useful information, and display it as you deem appropriate, or provide any other features you feel would demonstrate this API's utility.
+3) (Bonus - only attempt if you have time): The API returns drone crash statistics. Build a UI which allows you to filter the drones by crash rate range (for example: between 0-10%).
 
 ## Submission guidelines
 - Please ensure that your submission is runnable. Non-executing submissions will be diqualified without further review. Bonus points if in addition to the code, you deploy this to a PaaS provider of your choice (unless your solution is a mobile solution, we understand that makes this impossible, and will not mark you down).
