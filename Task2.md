@@ -1,5 +1,5 @@
-Bob's Epic Drone Shack Inc. manufactures drones. As a community service they have made an API available at
-[bobs-epic-drone-shack-inc.herokuapp.com](https://bobs-epic-drone-shack-inc.herokuapp.com) listing all of their products and providing safety and other information. The API is poorly documented, and fails frequently with a variety of status errors. The documentation lists the following routes:
+Bob's Epic Drone Shack Inc. manufactures drones. They have made an API available at
+[bobs-epic-drone-shack-inc.herokuapp.com](https://bobs-epic-drone-shack-inc.herokuapp.com) listing all of their products and providing information about these products. The API is poorly documented, and fails frequently with a variety of status errors. The documentation lists the following routes:
 
 GET -> /api/v0/drones
 
@@ -7,7 +7,7 @@ GET -> /api/v0/drone/:id
 
 No other documentation is provided.
 
-Using tools of your choice, build a UI which enumerates the results of `GET -> /api/v0/drones` in a readable manner. Given that we are an insurance provider, you should also attempt to see if there is any useful information, and highlight it as you deem appropriate, or provide any other features you feel would demonstrate this API's utility. As you want to demo this integration to a potential customer, make sure that the API's notorious instability and failure rate is appropriately handled.
+Using tools of your choice, build a UI which lists the results of `GET -> /api/v0/drones` in a readable manner. You should also attempt to see if there is any useful information, and highlight it as you deem appropriate, or provide any other features you feel would demonstrate this API's utility. As you want to demo this integration to a potential customer, make sure that the API's notorious instability and failure rate is appropriately handled.
 
 ## Submission guidelines
 - Please ensure that your submission is runnable. Non-executing submissions will be diqualified without further review. Bonus points if in addition to the code, you deploy this to a PaaS provider of your choice (unless your solution is a mobile solution, we understand that makes this impossible, and will not mark you down).
