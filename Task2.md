@@ -8,7 +8,7 @@ GET -> /api/v0/drone/:id
 No other documentation is provided.
 
 1) Using tools of your choice, build a UI which lists the results of `GET -> /api/v0/drones` in a readable manner. 
-2) The API is unstabile and has a high failure rate. You are tasked with building an integration that masks this from the end user. Your solution should be reliably demoable despite the broken API.
+2) The API is unstable and has a high failure rate. You are tasked with building an integration that masks this from the end user. Your solution should be reliably demoable despite the broken API.
 3) (Bonus - only attempt if you have time): The API returns drone crash statistics. Build a UI which allows you to filter the drones by crash rate range (for example: between 0-10%).
 
 ## Submission guidelines
