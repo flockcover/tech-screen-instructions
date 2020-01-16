@@ -12,7 +12,7 @@ We have pulled down an example of the response from each API in JSON format.
     {
     	"windSpeed": 8, # (m/s)
     	"temperature": 2, # (degreesC)
-      "rainfallProbability": 0.2, # (%)
+        "rainfallProbability": 0.2, # (%)
     	"visibility": 500 # (m)
     }
 ```
@@ -21,7 +21,7 @@ We have pulled down an example of the response from each API in JSON format.
     {
     	"mass": 3, # (kg)
     	"price": 2000, # (£)
-      "maxWindResistance": 10, # (m/s)
+        "maxWindResistance": 10, # (m/s)
     	"minimumOperatingTemperature": 40, # (degreesC)
     	"maximumOperatingTemperature": -10 # (degreesC)
     }
