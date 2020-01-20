@@ -22,8 +22,8 @@ We have pulled down an example of the response from each API in JSON format.
     	"mass": 3, # (kg)
     	"price": 2000, # (£)
         "maxWindResistance": 10, # (m/s)
-    	"minimumOperatingTemperature": 40, # (degreesC)
-    	"maximumOperatingTemperature": -10 # (degreesC)
+    	"minimumOperatingTemperature": -10, # (degreesC)
+    	"maximumOperatingTemperature": 40 # (degreesC)
     }
 ```
 
